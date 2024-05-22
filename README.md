@@ -24,10 +24,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <hr />
 
 ### 🥇 Achievements : 
--  Completed Full Stack Development Course.
+-  Completed a Full Stack Development Course.
 -  Completed Python Certification Course.
 -  Completed One Month Internship at Sparks Foundation.
--  Completed Crash Course On Dot Net.
+-  Completed a certified course on DotNet.
 
 <hr />
 
